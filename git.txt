@@ -1,0 +1,6 @@
+1. check the active session 
+2. tablespace usage 
+3. temp table space usage 
+4. top command
+5. blocks/locks   
+6. adhac queries from application, session running from sql developer.
