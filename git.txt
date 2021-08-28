@@ -4,3 +4,6 @@
 4. top command
 5. blocks/locks   
 6. adhac queries from application, session running from sql developer.
+
+
+Hi this is Vismayaya, learing git
