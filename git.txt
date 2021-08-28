@@ -1,3 +1,5 @@
+i like to learn git in devops
+
 1. check the active session 
 2. tablespace usage 
 3. temp table space usage 
